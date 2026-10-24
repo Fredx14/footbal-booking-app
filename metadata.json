@@ -1,0 +1,6 @@
+{
+  "name": "PitchMaster - Football Pitch Booking & Admin Platform",
+  "description": "Comprehensive Football Pitch Booking Platform with customer discovery, interactive slot booking, lock concurrency, admin portal, and full architectural blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
